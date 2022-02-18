@@ -21,3 +21,4 @@ https://github.com/JamesXtest/WiHKger-edp2in9_V2
 >>- delay 		= 資料更新時間  
 >>- refresh 	= 螢幕更新間距  
 
+YouTube : https://youtu.be/Fb5hC6svUQQ
